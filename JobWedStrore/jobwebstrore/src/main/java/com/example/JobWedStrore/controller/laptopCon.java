@@ -21,5 +21,9 @@ public class laptopCon {
     laptopService.hi();
     return "test";
    }
+   public String haha(){
+    System.out.println(":");
+    return"hihi";
+   }
     
 }
